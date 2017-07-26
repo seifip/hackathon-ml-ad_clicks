@@ -5,7 +5,7 @@ Brief: https://www.hackerearth.com/challenge/competitive/machine-learning-challe
 
 Dataset: https://he-s3.s3.amazonaws.com/media/hackathon/machine-learning-challenge-3/predict-ad-clicks/205e1808-6-dataset.zip
 
-## Problem statements
+## Problem statement
 
 A leading affiliate network company from Europe wants to leverage machine learning to improve (optimise) their conversion rates and eventually their topline. Their network is spread across multiple countries in europe such as Portugal, Germany, France, Austria, Switzerland etc.
 
